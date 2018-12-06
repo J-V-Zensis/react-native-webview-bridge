@@ -1,4 +1,4 @@
-### Fixed by Jason@Zensis
+###### Fixed by Jason@Zensis
 
 ## Please take a look at this [issue](https://github.com/alinz/react-native-webview-bridge/issues/109) first
 
